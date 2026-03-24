@@ -1,4 +1,4 @@
-print("Learning Python for AI")
-a = 10
-b = 20
+print("Experiment version")
+a = 50
+b = 100
 print("Sum:", a + b)
